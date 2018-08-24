@@ -1,6 +1,48 @@
+body {
+
+}
+
+a {
+color: black;
+font-family: helvetica;
+text-decoration: none;
+text-transform: uppercase;
+}
+
 h1 {
   text-align: center;
 }
-tr {
+.contactTable {
   text-align: center;
+}
+td{
+  border: 2px solid black;
+}
+
+#contentTable{
+  margin: auto;
+  width: 90%;
+  margin-top: 10px;
+}
+
+#contentTable tr{
+
+}
+
+#contentTable td{
+  padding: 5px;
+}
+
+@media screen and (max-width:750px) {
+  body {
+    background-color: black;
+    color: white;
+    }
+
+    a {
+    color: white;
+    }
+    td{
+      border: 2px solid white;
+    }
 }

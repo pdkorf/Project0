@@ -1,5 +1,12 @@
-body {
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
 
+body {
+  position: relative;
+  padding-bottom: 6rem;
+  min-height: 100%;
 }
 
 a {
@@ -12,9 +19,7 @@ text-transform: uppercase;
 h1 {
   text-align: center;
 }
-.contactTable {
-  text-align: center;
-}
+
 td{
   border: 2px solid black;
 }
@@ -25,6 +30,12 @@ td{
   margin-top: 10px;
 }
 
+#contactTable{
+  margin: auto;
+  text-align: center;
+
+}
+
 #contentTable tr{
 
 }
@@ -32,6 +43,21 @@ td{
 #contentTable td{
   padding: 5px;
 }
+
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+  border-top: 2px solid black;
+  background-color: white;
+
+}
+
+
+
 
 @media screen and (max-width:750px) {
   body {
@@ -45,4 +71,14 @@ td{
     td{
       border: 2px solid white;
     }
+    footer {
+      border-top: 2px solid white;
+      color: white;
+      background-color: black;
+    }
+    nav{
+      background-color: black;
+      color: white;
+    }
+
 }

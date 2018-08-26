@@ -27,7 +27,7 @@ The site contains 4 pages:
 ```
 
 ## Visit this site?
-Visit [GitHub Pages](https://pdkorf.github.io/Project0/)
+Visit [GitHub Pages](https://pdkorf.github.io/paulProject0/)
 
 ## Visit the course?
 Visit [CS50 - Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)

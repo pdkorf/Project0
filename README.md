@@ -1,6 +1,6 @@
 # Project 0
 
-My project0 for the Web Programming with Python and JavaScript.
+## My project0 for the Web Programming with Python and JavaScript.
 
 This site contains:
 - [x] 4 html pages
@@ -17,7 +17,7 @@ This site contains:
 - [x] columns aka grid model
 - [x] readme file
 
-# Content
+## Content
 The site contains 4 pages:
 ```
 - Index.html is the landingpage. This page (and all the others) contains a navigation and a footer.

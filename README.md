@@ -1,6 +1,6 @@
-# Project 0
+# Portfolio for CS50 webprogramming
 
-## My project0 for the Web Programming with Python and JavaScript.
+My project0 for the Web Programming with Python and JavaScript.
 
 This site contains:
 - [x] 4 html pages
@@ -28,3 +28,6 @@ The site contains 4 pages:
 
 ## Visit this site?
 Visit [GitHub Pages](https://pdkorf.github.io/Project0/)
+
+## Visit the course?
+Visit [CS50 - Web Programming with Python and Javascript](https://www.edx.org/course/cs50s-web-programming-with-python-and-javascript)

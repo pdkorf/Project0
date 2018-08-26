@@ -1,3 +1,12 @@
+footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
 html {
   height: 100%;
   box-sizing: border-box;
@@ -40,14 +49,12 @@ td {
 }
 
 footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  text-align: center;
   border-top: 2px solid black;
   background-color: white;
+}
+
+p span {
+  font-weight: bold;
 }
 
 @media screen and (max-width: 750px) {
@@ -55,21 +62,17 @@ footer {
     background-color: black;
     color: white;
   }
-
   a {
     color: white;
   }
-
   td {
     border: 2px solid white;
   }
-
   footer {
     border-top: 2px solid white;
     color: white;
     background-color: black;
   }
-
   nav {
     background-color: black;
     color: white;

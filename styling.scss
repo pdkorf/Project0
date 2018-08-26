@@ -1,6 +1,15 @@
 $dark: black;
 $light: white;
 
+%footerStyle {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  text-align: center;
+}
+
 html {
   height: 100%;
   box-sizing: border-box;
@@ -48,18 +57,17 @@ td{
 }
 
 footer {
-  position: absolute;
-  right: 0;
-  bottom: 0;
-  left: 0;
-  padding: 1rem;
-  text-align: center;
+  @extend %footerStyle;
   border-top: 2px solid $dark;
   background-color: $light;
 
 }
 
-
+p {
+  span{
+    font-weight: bold;
+  }
+}
 
 
 @media screen and (max-width:750px) {

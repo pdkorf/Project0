@@ -27,4 +27,4 @@ The site contains 4 pages:
 ```
 
 ## Visit this site?
-Visit [GitHub Pages] (https://pdkorf.github.io/Project0/)
+Visit [GitHub Pages](https://pdkorf.github.io/Project0/)

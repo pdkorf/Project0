@@ -10,37 +10,32 @@ body {
 }
 
 a {
-color: black;
-font-family: helvetica;
-text-decoration: none;
-text-transform: uppercase;
+  color: black;
+  font-family: helvetica;
+  text-decoration: none;
+  text-transform: uppercase;
 }
 
 h1 {
   text-align: center;
 }
 
-td{
+td {
   border: 2px solid black;
 }
 
-#contentTable{
+#contentTable {
   margin: auto;
   width: 90%;
   margin-top: 10px;
 }
 
-#contactTable{
+#contactTable {
   margin: auto;
   text-align: center;
-
 }
 
-#contentTable tr{
-
-}
-
-#contentTable td{
+#contentTable td {
   padding: 5px;
 }
 
@@ -53,32 +48,32 @@ footer {
   text-align: center;
   border-top: 2px solid black;
   background-color: white;
-
 }
 
-
-
-
-@media screen and (max-width:750px) {
+@media screen and (max-width: 750px) {
   body {
     background-color: black;
     color: white;
-    }
+  }
 
-    a {
+  a {
     color: white;
-    }
-    td{
-      border: 2px solid white;
-    }
-    footer {
-      border-top: 2px solid white;
-      color: white;
-      background-color: black;
-    }
-    nav{
-      background-color: black;
-      color: white;
-    }
+  }
 
+  td {
+    border: 2px solid white;
+  }
+
+  footer {
+    border-top: 2px solid white;
+    color: white;
+    background-color: black;
+  }
+
+  nav {
+    background-color: black;
+    color: white;
+  }
 }
+
+/*# sourceMappingURL=style.css.map */

@@ -20,11 +20,8 @@ This site contains:
 # Content
 The site contains 4 pages:
 ```
-Index.html is the landingpage. This page (and all the others) contains a navigation and a footer.
-
-Content.html lists the requirements for this project.
-
-About.html contains grid columns, and gives a brief description of the website
-
-Contact.html shows a table including some icons from Font Awesome.
+- Index.html is the landingpage. This page (and all the others) contains a navigation and a footer.
+- Content.html lists the requirements for this project.
+- About.html contains grid columns, and gives a brief description of the website
+- Contact.html shows a table including some icons from Font Awesome.
 ```
